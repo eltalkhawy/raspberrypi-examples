@@ -10,5 +10,3 @@ tm1637.py is a driver library; display.py shows its use
  | 4         | CLK  | Clock       | 16      | GPIO 23           |
  
 ![image of device](pic1.JPG)
-
-
